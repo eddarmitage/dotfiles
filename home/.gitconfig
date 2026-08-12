@@ -13,3 +13,5 @@ default = simple
 tool = p4merge
 [include]
 path = ~/.gitconfig.overrides
+[diff]
+	wsErrorHighlight = all
